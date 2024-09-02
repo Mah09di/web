@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa50bc8d.css",
+    "main.js": "/static/js/main.8c58907c.js",
+    "static/media/banner 2.jpg": "/static/media/banner 2.c44215bee2fb4883bd62.jpg",
+    "static/media/bg-info.png": "/static/media/bg-info.6c2b71fb31ec37ade54d.png",
+    "static/media/backgruod-Home.png": "/static/media/backgruod-Home.3ec150342e9fbfb8a058.png",
+    "static/media/IranianSansRegular.ttf": "/static/media/IranianSansRegular.767a6ff251a0cddf1531.ttf",
+    "static/media/IranianSansBold.ttf": "/static/media/IranianSansBold.b64d1ae2c1a3829a2ffb.ttf",
+    "static/media/call.png": "/static/media/call.275e5641a2535d0dad85.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.fa50bc8d.css.map": "/static/css/main.fa50bc8d.css.map",
+    "main.8c58907c.js.map": "/static/js/main.8c58907c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa50bc8d.css",
+    "static/js/main.8c58907c.js"
+  ]
+}
